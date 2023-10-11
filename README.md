@@ -1,6 +1,13 @@
 # Real-Time-Text-Editor
 
 
+### Hacktober Fest contributions are accepted
+
+1. Fork the repo 
+2. Make changes
+3. Create a PR
+4. Wait for begin accepted
+
 Technologies used :-
 
 1. React Js :- for making the frontend interface
