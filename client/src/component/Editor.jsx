@@ -11,11 +11,9 @@ import { useParams } from "react-router-dom";
 import BlotFormatter from "quill-blot-formatter";
 
 Quill.register("modules/blotFormatter", BlotFormatter);
-
 const Component = styled.div`
   background: #f5f5f5;
 `;
-
 const toolbarOptions = [
   ["bold", "italic", "underline", "strike"],
   ["blockquote", "code-block"],
